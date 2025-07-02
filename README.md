@@ -1,1 +1,2 @@
-node matrix-dynamic.js
+Run:
+node matrix.js
